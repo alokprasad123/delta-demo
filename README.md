@@ -1,3 +1,3 @@
 # delta-demo
 # teacher
-Alok Prasad
+Alok Prasad.
